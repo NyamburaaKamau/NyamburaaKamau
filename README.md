@@ -5,9 +5,6 @@
 
 ### Platform & Cloud Security Engineer • DevSecOps • MLOps
 
-[![Email](https://img.shields.io/badge/Email-nyamburaromy%40gmail.com-teal?style=flat-square&logo=gmail)](mailto:nyamburaromy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A7A6E?style=flat-square&logo=google-chrome)](https://portfolio.com)
-
 </div>
 
 ---
